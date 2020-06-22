@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\StepBarPOC\StepBarPOC\StepBarPOC\bin\Debug\netstandard2.0\StepBarPOC.deps.json
+C:\Users\Admin\source\repos\StepBarPOC\StepBarPOC\StepBarPOC\bin\Debug\netstandard2.0\StepBarPOC.dll
+C:\Users\Admin\source\repos\StepBarPOC\StepBarPOC\StepBarPOC\bin\Debug\netstandard2.0\ref\StepBarPOC.dll
+C:\Users\Admin\source\repos\StepBarPOC\StepBarPOC\StepBarPOC\bin\Debug\netstandard2.0\StepBarPOC.pdb
+C:\Users\Admin\source\repos\StepBarPOC\StepBarPOC\StepBarPOC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\source\repos\StepBarPOC\StepBarPOC\StepBarPOC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\StepBarPOC\StepBarPOC\StepBarPOC\obj\Debug\netstandard2.0\StepBarPOC.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StepBarPOC\StepBarPOC\StepBarPOC\obj\Debug\netstandard2.0\StepBarPOC.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StepBarPOC\StepBarPOC\StepBarPOC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\source\repos\StepBarPOC\StepBarPOC\StepBarPOC\obj\Debug\netstandard2.0\StepBarPOC.dll
+C:\Users\Admin\source\repos\StepBarPOC\StepBarPOC\StepBarPOC\obj\Debug\netstandard2.0\ref\StepBarPOC.dll
+C:\Users\Admin\source\repos\StepBarPOC\StepBarPOC\StepBarPOC\obj\Debug\netstandard2.0\StepBarPOC.pdb
+C:\Users\Admin\source\repos\StepBarPOC\StepBarPOC\StepBarPOC\obj\Debug\netstandard2.0\StepBarPOC.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\StepBarPOC\StepBarPOC\StepBarPOC\obj\Debug\netstandard2.0\StepBarPOC.csproj.CoreCompileInputs.cache
